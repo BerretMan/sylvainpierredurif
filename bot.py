@@ -49,4 +49,4 @@ async def help(ctx) :
 
 
 
-bot.run("ODkwMzAzMDA0OTM3NDUzNjA4.YUt1SQ.2WYr-Ok6bFYve2C8lPmJYyLHCew")
+bot.run("NonTuAurasPasMonToken")
